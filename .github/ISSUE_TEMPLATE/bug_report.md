@@ -7,6 +7,9 @@ assignees: ''
 
 ---
 
+**Nature of your Bridge2AI involvement**
+*e.g. a particular Core, DGP, or module*
+
 **Describe the bug**
 A clear and concise description of what the bug is.
 
