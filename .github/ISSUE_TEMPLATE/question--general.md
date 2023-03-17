@@ -1,8 +1,8 @@
 ---
-name: Question
-about: Ask the Standards Core a question
+name: 'Question: General'
+about: Ask the Standards Core a general question
 title: ''
-labels: question
+labels: 'question: general'
 assignees: ''
 
 ---
